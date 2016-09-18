@@ -67,7 +67,7 @@ LOGGING = {
              'level':'INFO',
              'propagate': True,
          },
-         'applications.website.views': {
+         'applications.websites.views': {
              'handlers': ['file'],
              'level':'INFO',
              'propagate': True,
