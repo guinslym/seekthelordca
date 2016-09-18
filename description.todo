@@ -1,0 +1,23 @@
+description of the project:
+
+
+Models:
+
+
+todo:
+  ✔ Redo or recreate the application with the configurations @done(2016-06-12 21:15) @project(todo)
+ ✔ Urls to set (/, About/, Create/) @done(2016-06-12 16:03) @project(todo)
+   ✔ Urls 500 @done(2016-06-12 16:03) @project(todo)
+ ✔ Expiring date @done(2016-06-12 16:07) @project(todo)
+ ✔ Configuration set @done(2016-06-12 17:11) @project(todo)
+ ✔ remove '.production-settings' @done(2016-06-12 17:11) @project(todo)
+✔ requirements.txt @done(2016-06-12 21:15)
+ ✔ Templates (bootstrap) @done(2016-06-12 20:18)
+✔ Set statics in the settings @done(2016-06-12 20:18)
+☐ I learn what really means MVP
+✔ Add a base template @done(2016-06-12 20:18)
+ ✔ Test to do @done(2016-06-12 17:13)
+ ✔ google recaptcha @done(2016-06-12 16:17) @project(todo)
+ ☐ think about the domain name chopit.ca  yoruba.. oyanow.ca
+☐ Purchase one
+ ✔ Uopy... or language @done(2016-06-12 17:13)
